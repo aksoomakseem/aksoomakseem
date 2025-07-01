@@ -15,19 +15,19 @@ Here are some ideas to get you started:
 
 ## Welcome!
 
-I’m a junior student from NUDT.
+    I’m a junior student from NUDT.
 ---
-# Currently working on:
+## Currently working on:
 - Machine Learning \- as majority
 - Embedded System Development \- as interest
 - Algorithm \- which I'm not expert in
 ---
-# Target for futute:
+## Target for futute:
 - CV(Computer Vision)
 - Modeling
 - Edit videos
 ---
-# Reach me:
+## Reach me:
 You can contact me from **<xuzenglin22@nudt.edu.cn>**
 
 You can also find me at:
