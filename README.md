@@ -1,5 +1,3 @@
-## Welcome!
-
 <!--
 **aksoomakseem/aksoomakseem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,20 +13,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Welcome!
+
 I’m a junior student from NUDT.
 ---
-#Currently working on:
+# Currently working on:
 - Machine Learning \- as majority
 - Embedded System Development \- as interest
 - Algorithm \- which I'm not expert in
 ---
-#Target for futute:
+# Target for futute:
 - CV(Computer Vision)
 - Modeling
 - Edit videos
 ---
-#Reach me:
-You can contact me from **[xuzenglin22@nudt.edu.cn]<xuzenglin22@nudt.edu.cn>**
+# Reach me:
+You can contact me from **<xuzenglin22@nudt.edu.cn>**
 
 You can also find me at:
 - Github \- **[xuzenglin22@nudt.edu.cn](https://github.com/aksoomakseem)**
