@@ -30,7 +30,7 @@ I’m a junior student from NUDT.
 You can contact me from **<xuzenglin22@nudt.edu.cn>**
 
 You can also find me at:
-- Github \- **[xuzenglin22@nudt.edu.cn](https://github.com/aksoomakseem)**
+- Github \- **[https://github.com/aksoomakseem](https://github.com/aksoomakseem)**
 - Bilibili \- **[https://b23.tv/vHaN0N2](https://b23.tv/vHaN0N2)**
 
 Keep on upgrading...
