@@ -14,25 +14,24 @@ Here are some ideas to get you started:
 -->
 
 ## Welcome!
+I’m a junior student from NUDT.
 
-    I’m a junior student from NUDT.
----
 ## Currently working on:
 - Machine Learning \- as majority
 - Embedded System Development \- as interest
 - Algorithm \- which I'm not expert in
----
+
 ## Target for futute:
 - CV(Computer Vision)
 - Modeling
 - Edit videos
----
+
 ## Reach me:
 You can contact me from **<xuzenglin22@nudt.edu.cn>**
 
 You can also find me at:
 - Github \- **[xuzenglin22@nudt.edu.cn](https://github.com/aksoomakseem)**
 - Bilibili \- **[https://b23.tv/vHaN0N2](https://b23.tv/vHaN0N2)**
----
+
 Keep on upgrading...
 
